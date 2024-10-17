@@ -1,0 +1,1 @@
+﻿global using cycle_store_be.DependencyInjection.Extensions;
